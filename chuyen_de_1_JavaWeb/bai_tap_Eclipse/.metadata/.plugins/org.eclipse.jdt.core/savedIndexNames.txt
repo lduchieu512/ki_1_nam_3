@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+F:\ki1_nam3\chuyen_de_1_JavaWeb\bai_tap_Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+188992043.index
+3723322750.index
+959829874.index
+1865797976.index
+4201650845.index
